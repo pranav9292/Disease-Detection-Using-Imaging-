@@ -34,6 +34,7 @@ The model can predict the following classes:
 
 ## Project Structure
 
+```
 SAFAS/
 │
 ├─ models/ # Saved Keras model
@@ -47,7 +48,7 @@ SAFAS/
 ├─ predictor.py # Main training & prediction script
 ├─ requirements.txt
 └─ README.md
-
+```
 
 ---
 
