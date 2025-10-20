@@ -142,3 +142,5 @@ def predict_image(image_path):
 
 # Example usage
 predict_image(r"C:\Users\pranav.ghuge\Desktop\Safas\SAFAS\thermal images UL\Blast\Thermalimage1a.jpg")
+
+# No use
